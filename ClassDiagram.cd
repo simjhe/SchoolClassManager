@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Assignment7_Herrmann.Address">
+    <Position X="23.5" Y="6.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAMAAAACAAAAAAAAgAAAAIAAAAAAAA=</HashCode>
+      <FileName>Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment7_Herrmann.AddStudentForm">
+    <Position X="14.75" Y="7.5" Width="3.25" />
+    <Members>
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AACAAACAACAAEEEAAACCAMgCAgBAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>AddStudentForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment7_Herrmann.Assignment">
+    <Position X="26" Y="1" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAEAIAAAASAAAAEAAABAQAAAQEAIAA=</HashCode>
+      <FileName>Assignment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment7_Herrmann.AssignmentForm">
+    <Position X="16.75" Y="0.75" Width="3.5" />
+    <Members>
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAgAAIKAACAgEAASAACAAAAiEQFAAAAAAAAAAAIAQAA=</HashCode>
+      <FileName>AssignmentForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment7_Herrmann.MainForm">
+    <Position X="10" Y="2.25" Width="3.75" />
+    <Members>
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>gAAACAAgIjEgEABAAICAAAAGAAAAAAACQAAAgECAAAQ=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment7_Herrmann.Student">
+    <Position X="19.5" Y="6.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAIAAEAAAAhAAAAIAAAAAAgAAAIIAAAGAAAAAAACAAA=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment7_Herrmann.StudentManager">
+    <Position X="21.5" Y="1" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAEBACAAAAAAAAAAAAAAAAAAAAAEQJAAAACBAA=</HashCode>
+      <FileName>StudentManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Assignment7_Herrmann.Subjects">
+    <Position X="27.5" Y="6.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAQIAAAQIAAAAADAAAAICAAAASAAAAAAA=</HashCode>
+      <FileName>Subjects.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
